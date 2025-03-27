@@ -1,0 +1,18 @@
+[27-Mar-2025 08:05:04 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/antria64/public_html/layouts/_footer.php:121
+Stack trace:
+#0 /home/antria64/public_html/layouts/_footer.php(121): htmlspecialchars()
+#1 /home/antria64/public_html/index.php(110): include('/home/antria64/...')
+#2 {main}
+  thrown in /home/antria64/public_html/layouts/_footer.php on line 121
+[27-Mar-2025 08:05:49 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/antria64/public_html/layouts/_footer.php:121
+Stack trace:
+#0 /home/antria64/public_html/layouts/_footer.php(121): htmlspecialchars()
+#1 /home/antria64/public_html/index.php(110): include('/home/antria64/...')
+#2 {main}
+  thrown in /home/antria64/public_html/layouts/_footer.php on line 121
+[27-Mar-2025 08:06:23 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/antria64/public_html/layouts/_footer.php:121
+Stack trace:
+#0 /home/antria64/public_html/layouts/_footer.php(121): htmlspecialchars()
+#1 /home/antria64/public_html/index.php(110): include('/home/antria64/...')
+#2 {main}
+  thrown in /home/antria64/public_html/layouts/_footer.php on line 121

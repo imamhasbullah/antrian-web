@@ -1,0 +1,8 @@
+[25-Mar-2025 02:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/antria64/public_html/pages/setting/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/antria64/public_html/pages/setting/login.php on line 17
+[25-Mar-2025 02:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/antria64/public_html/pages/setting/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/antria64/public_html/pages/setting/login.php on line 17
